@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://flyManagerAdmin:VTOxglLdbxM3lH4C@cluster0.ujl1p1r.mongodb.net/?retryWrites=true&w=majority
+      database: security
